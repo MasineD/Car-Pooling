@@ -1,0 +1,20 @@
+{
+  "name": "carpooling",
+  "version": "1.0.0",
+  "description": "Determining if a car can complete all its trips without overloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasineD/Car-Pooling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasineD/Car-Pooling/issues"
+  },
+  "homepage": "https://github.com/MasineD/Car-Pooling#readme"
+}
